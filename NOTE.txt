@@ -1,7 +1,0 @@
-LANGUAGE & STACK :
-MERN (MongoDB, Express, React, Node.js)
-
-SOURCE : https://www.youtube.com/watch?v=FcxjCPeicvU
-
-DEPLOYMENT : https://www.youtube.com/watch?v=svEs1TafR7E
-2:32:08

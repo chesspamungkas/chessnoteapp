@@ -1,36 +1,7 @@
-# Chess Note Apps
+# Complete MERN Beginner Course [2023]
 
-## Stack
+Watch the course here: https://www.youtube.com/watch?v=FcxjCPeicvU
 
-- MERN (MongoDB, Express, React, Node)
+**Each part of the course has a corresponding branch you can check out.**
 
-# Usage (run fullstack app on your machine)
-
-## Prerequisites
-
-- [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
-- [Node](https://nodejs.org/en/download/) ^10.0.0
-- [npm](https://nodejs.org/en/download/package-manager/)
-
-notice, you need backend and frontend runs concurrently in different terminal session, in order to make them talk to each other
-
-## Server-side usage(PORT: 5000)
-
-```terminal
-$ cd backend    // go to backend folder
-$ npm i         // npm install packages
-$ npm run dev   // run it locally
-$ npm run build // this will build the server code to es6 js codes and generate a dist file
-```
-
-## Client-side usage(PORT: 3000)
-
-```terminal
-$ cd frontend        // go to frontend folder
-$ yarn # or npm i    // npm install packages
-$ npm run dev        // run it locally
-
-// deployment for frontend app
-$ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
-$ npm run start // this will run the files in docs, this behavior is exactly the same how gh-pages will run your static site
-```
+![thumbnail](https://user-images.githubusercontent.com/52977034/212036784-9ea937a6-f6d7-4d1f-8acf-f2975ff7ab5c.png)
