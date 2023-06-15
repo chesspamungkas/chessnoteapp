@@ -8,8 +8,8 @@
 
 ## Prerequisites
 
-- [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
-- [Node](https://nodejs.org/en/download/) ^10.0.0
+- [MongoDB](https://www.mongodb.com/)
+- [Node](https://nodejs.org/en/download/)
 - [npm](https://nodejs.org/en/download/package-manager/)
 
 notice, you need backend and frontend runs concurrently in different terminal session, in order to make them talk to each other
