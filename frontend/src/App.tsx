@@ -9,7 +9,7 @@ import { User } from './models/user';
 import * as NotesApi from "./network/notes_api";
 import NotesPage from './pages/NotesPage';
 import NotFoundPage from './pages/NotFoundPage';
-import PrivacyPage from './pages/PrivacyPage';
+// import PrivacyPage from './pages/PrivacyPage';
 import styles from "./styles/App.module.css";
 
 function App() {
@@ -46,10 +46,10 @@ function App() {
 							path='/'
 							element={<NotesPage loggedInUser={loggedInUser} />}
 						/>
-						<Route
+						{/* <Route
 							path='/privacy'
 							element={<PrivacyPage />}
-						/>
+						/> */}
 						<Route
 							path='/*'
 							element={<NotFoundPage />}
