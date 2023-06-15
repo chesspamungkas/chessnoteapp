@@ -35,7 +35,7 @@ const Note = ({ note, onNoteClicked, onDeleteNoteClicked, className }: NoteProps
                 <Card.Title className={styleUtils.flexCenter}>
                     {title}
                     <MdDelete
-                        className="text-muted ms-auto"
+                        className="text-muted ms-auto bajulIjo"
                         onClick={(e) => {
                             onDeleteNoteClicked(note);
                             e.stopPropagation();
@@ -46,7 +46,7 @@ const Note = ({ note, onNoteClicked, onDeleteNoteClicked, className }: NoteProps
                     {text}
                 </Card.Text>
             </Card.Body>
-            <Card.Footer className="text-muted">
+            <Card.Footer className="text-muted bajulIjo">
                 {createdUpdatedText}
             </Card.Footer>
         </Card>

@@ -69,7 +69,7 @@ const LoginModal = ({ onDismiss, onLoginSuccessful }: LoginModalProps) => {
                     <Button
                         type="submit"
                         disabled={isSubmitting}
-                        className={styleUtils.width100}>
+                        className={`persebaya ${styleUtils.width100}`}>
                         Log In
                     </Button>
                 </Form>
