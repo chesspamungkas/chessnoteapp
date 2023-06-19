@@ -1,4 +1,4 @@
-import express from "express";
+import express, { Request, Response } from "express";
 import * as UserController from "../controllers/users";
 import { requiresAuth } from "../middleware/auth";
 

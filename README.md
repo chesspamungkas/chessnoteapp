@@ -14,7 +14,7 @@
 
 notice, you need backend and frontend runs concurrently in different terminal session, in order to make them talk to each other
 
-## Server-side usage(PORT: 5000)
+## Server-side usage(PORT: 6000)
 
 ```terminal
 $ cd backend    // go to backend folder
