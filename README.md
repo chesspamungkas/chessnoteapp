@@ -37,4 +37,4 @@ $ npm run start // this will run the files in docs, this behavior is exactly the
 
 ## Live Demo
 
-https://chessnoteapp-frontend.onrender.com/
+<a href="https://chessnoteapp-frontend.onrender.com/" target="_blank">https://chessnoteapp-frontend.onrender.com/</a>
